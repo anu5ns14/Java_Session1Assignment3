@@ -1,0 +1,4 @@
+Examples of data which can't be stored in int datatype:
+
+Float Value: 10.01
+Char value: 'R'
